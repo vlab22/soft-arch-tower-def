@@ -35,3 +35,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/ExampleAssets/
+Assets/Presets/
+Assets/TutorialInfo/
+Logs/
+UserSettings/EditorUserSettings.asset
+Assets/Materials/Skybox_Mat.mat
+Assets/Materials/Skybox_Mat.mat.meta
